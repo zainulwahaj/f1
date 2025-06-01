@@ -5,6 +5,8 @@ scikit-learn==1.2.2
 
 # Visualization
 plotly==5.18.0
+seaborn==0.13.2
+matplotlib==3.10.3
 
 # Streamlit and its dependencies
 streamlit==1.32.0
