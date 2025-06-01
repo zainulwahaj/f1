@@ -1,8 +1,8 @@
 streamlit==1.32.0
-pandas==2.2.0
-numpy==1.26.4
-scikit-learn==1.4.1
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.2.2
 plotly==5.18.0
 streamlit-option-menu==0.3.12
-catboost==1.2.2
-pyyaml==5.4.1 
+catboost==1.1.1
+pyyaml==6.0.1 
