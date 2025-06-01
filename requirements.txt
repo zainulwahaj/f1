@@ -15,6 +15,7 @@ rich>=10.14.0,<14.0.0
 
 # Machine Learning
 catboost==1.2.2
+category_encoders==2.6.3
 
 # Utilities
 pyyaml==6.0.1
