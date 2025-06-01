@@ -17,6 +17,7 @@ rich>=10.14.0,<14.0.0
 catboost==1.2.2
 category_encoders==2.6.3
 scipy==1.11.4
+lightgbm==4.1.0
 
 # Utilities
 pyyaml==6.0.1
